@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NEE", "NEE\NEE.csproj", "{8E3AFA59-16E7-48BF-9C72-0C1E72390451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{DC8CC369-BAD2-4FEA-AB58-1882808194E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{37475018-D625-4916-971E-951453E2001D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{6FBDC524-48AE-4660-A44F-08126BE29427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{4E0DD311-0AE0-4EF9-B32D-62D7A20CB309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E3AFA59-16E7-48BF-9C72-0C1E72390451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3AFA59-16E7-48BF-9C72-0C1E72390451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3AFA59-16E7-48BF-9C72-0C1E72390451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3AFA59-16E7-48BF-9C72-0C1E72390451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8CC369-BAD2-4FEA-AB58-1882808194E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8CC369-BAD2-4FEA-AB58-1882808194E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8CC369-BAD2-4FEA-AB58-1882808194E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8CC369-BAD2-4FEA-AB58-1882808194E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37475018-D625-4916-971E-951453E2001D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37475018-D625-4916-971E-951453E2001D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37475018-D625-4916-971E-951453E2001D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37475018-D625-4916-971E-951453E2001D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBDC524-48AE-4660-A44F-08126BE29427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBDC524-48AE-4660-A44F-08126BE29427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBDC524-48AE-4660-A44F-08126BE29427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBDC524-48AE-4660-A44F-08126BE29427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0DD311-0AE0-4EF9-B32D-62D7A20CB309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0DD311-0AE0-4EF9-B32D-62D7A20CB309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0DD311-0AE0-4EF9-B32D-62D7A20CB309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0DD311-0AE0-4EF9-B32D-62D7A20CB309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6CC94B1-AA30-46FE-8EE4-E529CFBA77C9}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://vmhtfs2018.hevs.ch/625-1
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = NEE\\NEE.csproj
+		SccProjectName1 = NEE
+		SccLocalPath1 = NEE
+		SccProjectUniqueName2 = DAL\\DAL.csproj
+		SccProjectName2 = DAL
+		SccLocalPath2 = DAL
+		SccProjectUniqueName3 = BLL\\BLL.csproj
+		SccProjectName3 = BLL
+		SccLocalPath3 = BLL
+		SccProjectUniqueName4 = DTO\\DTO.csproj
+		SccProjectName4 = DTO
+		SccLocalPath4 = DTO
+		SccProjectUniqueName5 = ConsoleApp\\ConsoleApp.csproj
+		SccProjectName5 = ConsoleApp
+		SccLocalPath5 = ConsoleApp
+	EndGlobalSection
+EndGlobal

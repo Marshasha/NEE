@@ -1,0 +1,12 @@
+C:\Users\Home\source\repos\NEE\NEE_Portal_Agile\NEE-Dev\DTO\bin\Debug\net5.0\DTO.deps.json
+C:\Users\Home\source\repos\NEE\NEE_Portal_Agile\NEE-Dev\DTO\bin\Debug\net5.0\DTO.dll
+C:\Users\Home\source\repos\NEE\NEE_Portal_Agile\NEE-Dev\DTO\bin\Debug\net5.0\ref\DTO.dll
+C:\Users\Home\source\repos\NEE\NEE_Portal_Agile\NEE-Dev\DTO\bin\Debug\net5.0\DTO.pdb
+C:\Users\Home\source\repos\NEE\NEE_Portal_Agile\NEE-Dev\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\NEE\NEE_Portal_Agile\NEE-Dev\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\NEE\NEE_Portal_Agile\NEE-Dev\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\NEE\NEE_Portal_Agile\NEE-Dev\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+C:\Users\Home\source\repos\NEE\NEE_Portal_Agile\NEE-Dev\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\NEE\NEE_Portal_Agile\NEE-Dev\DTO\obj\Debug\net5.0\DTO.dll
+C:\Users\Home\source\repos\NEE\NEE_Portal_Agile\NEE-Dev\DTO\obj\Debug\net5.0\ref\DTO.dll
+C:\Users\Home\source\repos\NEE\NEE_Portal_Agile\NEE-Dev\DTO\obj\Debug\net5.0\DTO.pdb
